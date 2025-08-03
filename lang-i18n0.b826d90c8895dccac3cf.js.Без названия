@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{592:function(o){o.exports=JSON.parse('{"common":{"backToTradeList":"返回交易列表"},"tdk":{"trade":{"short":{"btc":"BTC","usdt":"USDT","eth":"ETH","ht":"HT","eos":"EOS","husd":"HUSD","xrp":"XRP","ltc":"LTC"}}}}')}}]);

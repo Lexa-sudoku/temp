@@ -1,0 +1,20 @@
+.p2p-list-box {
+  width: 56px;
+}
+.p2p-list-box .box-img {
+  width: 56px !important;
+  cursor: pointer;
+}
+
+.open-guide[data-v-c0cae73c] {
+  width: 142px;
+  height: 137px;
+  position: absolute;
+  bottom: -15%;
+  right: -45%;
+  z-index: 2;
+}
+.award-container[data-v-c0cae73c]  .card-footer {
+  bottom: -0.5px;
+}
+
